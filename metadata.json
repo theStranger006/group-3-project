@@ -1,0 +1,6 @@
+{
+  "name": "St. Paul's Soko",
+  "description": "The exclusive student marketplace for St. Paul's University - Limuru. Styled like Jumia for students to browse items, place orders instantly, and coordinate physical meetups on campus safely.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
